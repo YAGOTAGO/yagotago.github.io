@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Tiago
+title: Tiago Davies
 logo: # You can add own logo. For example '/images/logo.png'.
-description: My portfolio page.
+description: Portfolio page for Tiago Davies.
 color_scheme: dark # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
