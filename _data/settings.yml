@@ -29,8 +29,8 @@ menu__settings:
 #-------------------------------
 # Author Settings
 author:
-  author__name: Monica Hilton
-  author__bio: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  author__name: Tiago Davies
+  author__bio: Recent computer science graduate from the University of Rochester.
   author__avatar: '/images/01-1.jpg'
 
 social:
