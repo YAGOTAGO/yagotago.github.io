@@ -37,7 +37,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi I'm Tiago.
-  hero__description: So, If you're looking for designs that have a high visual impact on your target audience, while also aligning with your brand, Let's talk about your project in more detail.
+  hero__description: I am a recent computer science graduate with a passion for making video game projects. Check out all my work <a href="/projects/">here</a>! #hyperlink <a href="/projects/">here</a>
   hero__image: '/images/01.jpg'
 
 
