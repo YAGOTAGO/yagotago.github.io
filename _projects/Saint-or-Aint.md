@@ -29,7 +29,7 @@ Play in browser [here](https://tdavies.itch.io/saint-or-aint).
 * Duration: 1 month
 
 ## Role
-
+Awarded the [Tom Hope Scholar](https://tomhopescholars.org/) for media work in this project.
 * Responsible for all coding
 * Implemented category databases
 * Implemented scene transitions
