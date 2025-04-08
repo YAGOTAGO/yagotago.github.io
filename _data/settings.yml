@@ -77,16 +77,16 @@ blog__settings:
 
 #-------------------------------
 # Gallery Footer Settings
-gallery:
-  gallery__images:
-    - alt: 'Rest'
-      url: '/images/gallery-1.jpg'
-    - alt: 'Lifestyle'
-      url: '/images/gallery-2.jpg'
-    - alt: 'Hobby'
-      url: '/images/gallery-3.jpg'
-    - alt: 'Notes'
-      url: '/images/gallery-4.jpg'
+# gallery:
+#   gallery__images:
+#     - alt: 'Rest'
+#       url: '/images/gallery-1.jpg'
+#     - alt: 'Lifestyle'
+#       url: '/images/gallery-2.jpg'
+#     - alt: 'Hobby'
+#       url: '/images/gallery-3.jpg'
+#     - alt: 'Notes'
+#       url: '/images/gallery-4.jpg'
 
 
 #-------------------------------
@@ -97,8 +97,6 @@ footer_menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - title: 'Blog'
-      url: '/blog/'
     - url: '/about/'
       title: 'About'
     - url: '/contact/'
@@ -119,7 +117,7 @@ contact:
 
 #-------------------------------
 # Comment Section (Disqus)
-disqus-identifier: anvodstudio-demo # Add your shortname for Disqus Comment. For example anvodstudio-demo
+disqus-identifier: # Add your shortname for Disqus Comment. For example anvodstudio-demo
 
 
 #-------------------------------
