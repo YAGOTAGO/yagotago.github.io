@@ -9,7 +9,7 @@ image: '/images/flames-legacy/flame-gif.gif'
 
 ## Description
 
-Saint or Ain't is a game inspired by [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) where you play the role of a heavenly worker, tasked with determining who is worthy of being a Saint. The people's information and looks are randomly generated and includes many references to popular culture.
+Flames Legacy is a 3D adventure game where you fight a huge dragon! Made for the Xcalibur'25 game jam, and awarded Best Overall.
 
 Download [here](https://tdavies.itch.io/flames-legacy).
 
@@ -18,18 +18,6 @@ Download [here](https://tdavies.itch.io/flames-legacy).
 * Duration: 32 hours
 
 ## Role
-Awarded the [Tom Hope Scholar](https://tomhopescholars.org/) for media work in this project.
-* Responsible for all coding
-* Implemented category databases
-* Implemented scene transitions
-* Wrote the story and categories
-
-## Code
-<div class="social social--large">
-  <ul class="social__list list-reset">
-    <li class="social__item">
-      <a class="social__link" href="https://github.com/YAGOTAGO/SaintOrAint" target="_blank" rel="noopener"
-        aria-label="GitHub"><i class="ion ion-logo-github"></i></a>
-    </li>
-  </ul>
-</div>
+* Implemented basic enemy and dragon AI
+* Added and edited shaders
+* Implemented character controller
