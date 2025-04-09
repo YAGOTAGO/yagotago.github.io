@@ -97,13 +97,8 @@ footer_menu__settings:
       url: '/'
     - title: 'Projects'
       url: '/projects/'
-    - url: '/about/'
-      title: 'About'
-    - url: '/contact/'
-      title: 'Contact'
-    - url: '/elements/'
-      title: 'Elements'
-
+    - title: 'Resume'
+      url: '/Resume.pdf'
 
 #-------------------------------
 # Contact Settings
