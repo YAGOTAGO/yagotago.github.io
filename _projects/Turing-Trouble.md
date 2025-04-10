@@ -14,7 +14,7 @@ image: '/images/turing-trouble/turing-intro.png'
 
 ## Description
 
-Saint or Ain't is a game inspired by [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) where you play the role of a heavenly worker, tasked with determining who is worthy of being a Saint. The people's information and looks are randomly generated and includes many references to popular culture.
+Turing Trouble is simple puzzle game made for the DandyHacks'23 hackathon where it won best in entertainment track and most creative use of GitHub.
 
 Play in browser [here](https://tdavies.itch.io/turing-trouble).
 
