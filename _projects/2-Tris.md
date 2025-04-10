@@ -15,7 +15,7 @@ image: '/images/2-tris/tris-logo.png'
 
 ## Description
 
-Saint or Ain't is a game inspired by [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) where you play the role of a heavenly worker, tasked with determining who is worthy of being a Saint. The people's information and looks are randomly generated and includes many references to popular culture.
+2-Tris is Tetris for 2 players! Created during the DandyHacks'22 hackathon where it won 1st place in entertainment and best UI.
 
 Download [here](https://tdavies.itch.io/2-tris).
 
@@ -24,10 +24,9 @@ Download [here](https://tdavies.itch.io/2-tris).
 * Duration: 42 hours
 
 ## Role
-* Responsible for all coding
-* Implemented category databases
-* Implemented scene transitions
-* Wrote the story and categories
+* Implemented characters movement
+* Implemented tetris logic
+
 
 ## Code
 <div class="social social--large">

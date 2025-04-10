@@ -16,17 +16,16 @@ image: '/images/planet-drip/planet-drip-intro.png'
 
 ## Description
 
-Saint or Ain't is a game inspired by [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) where you play the role of a heavenly worker, tasked with determining who is worthy of being a Saint. The people's information and looks are randomly generated and includes many references to popular culture.
+Planet Drip is an arcade inspired game where you navigate a space ship through hazardous terrain. Implemented using Java Swing required creating of custom GameObject classes and modular behavior interfaces such as IMovable and IHitbox.
 
 * Tech: Java Swing, Github
 * Team: 2 people
 * Duration: 1 month
 
 ## Role
-* Responsible for all coding
-* Implemented category databases
-* Implemented scene transitions
-* Wrote the story and categories
+* Implemented abstract level class allowing for easy level creation
+* Implemented base gameobject classes to easily add more content
+* Created modular design with interfaces, demonstrating composition over inheritance
 
 ## Code
 <div class="social social--large">

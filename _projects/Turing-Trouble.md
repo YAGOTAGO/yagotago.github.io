@@ -23,7 +23,9 @@ Play in browser [here](https://tdavies.itch.io/turing-trouble).
 * Duration: 42 hours
 
 ## Role
-* Implemented levels using Scriptable Objects for modular design
+* Implemented levels using data containers called Scriptable Objects for modular design
+* Implemented the logic for the puzzles
+* Implemented the scene transition logic
 
 
 ## Code

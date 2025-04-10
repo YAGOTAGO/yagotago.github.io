@@ -9,7 +9,9 @@ image: '/images/under-pressure/under-pressure-intro.gif'
 
 ## Description
 
-Under Pressure is a tense task management game where you must fix your submarine as you ascend to safety. Made during the DandyHacks'24 hackathon and awarded People's Choice, and Best in Entertainment.
+Under Pressure is a tense task management game where you must fix your submarine as you ascend to safety. 
+
+Made during the DandyHacks'24 hackathon and awarded People's Choice, and Best in Entertainment.
 
 Play in browser [here](https://tdavies.itch.io/under-pressure).
 

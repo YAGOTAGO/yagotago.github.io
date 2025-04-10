@@ -19,5 +19,5 @@ Download [here](https://tdavies.itch.io/flames-legacy).
 
 ## Role
 * Implemented basic enemy and dragon AI
-* Added and edited shaders
+* Enhanced visuals editing sky box, and fire shaders
 * Implemented character controller
