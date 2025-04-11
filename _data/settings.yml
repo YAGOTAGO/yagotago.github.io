@@ -21,7 +21,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: Tiago Davies
-  author__bio: Recent computer science graduate from the University of Rochester.
+  author__bio: Click my links below if you like what you've seen.
   author__avatar: '/images/personal/Me.jpg'
 
 social:

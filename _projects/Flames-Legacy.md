@@ -21,3 +21,13 @@ Download [here](https://tdavies.itch.io/flames-legacy).
 * Implemented basic enemy and dragon AI
 * Enhanced visuals editing sky box, and fire shaders
 * Implemented character controller
+
+## Code
+<div class="social social--large">
+  <ul class="social__list list-reset">
+    <li class="social__item">
+      <a class="social__link" href="https://github.com/YAGOTAGO/Flames-Legacy" target="_blank" rel="noopener"
+        aria-label="GitHub"><i class="ion ion-logo-github"></i></a>
+    </li>
+  </ul>
+</div>
