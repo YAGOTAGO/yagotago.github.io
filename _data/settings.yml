@@ -27,6 +27,7 @@ author:
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/tiagodavies"}
 - {icon: "ion-logo-github", link: "https://github.com/YAGOTAGO"}
+- {icon: "ion-md-mail", link: "mailto:tiagocaetanodavies@gmail.com"}
 - {icon: "ion-logo-game-controller-b", link: "https://tdavies.itch.io"}
 
 # Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
