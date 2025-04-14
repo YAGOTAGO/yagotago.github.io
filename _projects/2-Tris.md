@@ -15,7 +15,7 @@ image: '/images/2-tris/tris-logo.png'
 
 ## Description
 
-2-Tris is Tetris for 2 players! Created during the DandyHacks'22 hackathon where it won 1st place in entertainment and best UI.
+2-Tris is Tetris for 2 players! Created during the DandyHacks'22 hackathon where it won best in entertainment and best UI/UX.
 
 Download [here](https://tdavies.itch.io/2-tris).
 
@@ -25,7 +25,7 @@ Download [here](https://tdavies.itch.io/2-tris).
 
 ## Role
 * Implemented characters movement
-* Implemented tetris logic
+* Implemented tetris data structure and algorithm
 
 
 ## Code

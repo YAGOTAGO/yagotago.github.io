@@ -16,9 +16,9 @@ image: '/images/planet-drip/planet-drip-intro.png'
 
 ## Description
 
-Planet Drip is an arcade inspired game where you navigate a space ship through hazardous terrain. Implemented using Java Swing required creating of custom GameObject classes and modular behavior interfaces such as IMovable and IHitbox.
+Planet Drip is an arcade inspired game where you navigate a space ship through hazardous terrain.
 
-* Tech: Java Swing, Github
+* Tech: Java using Swing library, Github
 * Team: 2 people
 * Duration: 1 month
 
