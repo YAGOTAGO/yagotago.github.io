@@ -37,7 +37,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi I'm Tiago.
-  hero__description: I am a recent computer science graduate with a passion for making video game projects. Check out all my work <a href="/projects/">here</a>! #hyperlink <a href="/projects/">here</a>
+  hero__description: I am a recent computer science graduate from the University of Rochester with a passion for making creative projects. <br><br> Check out all my projects below! #hyperlink <a href="/projects/">here</a>
   hero__image: '/images/personal/Me.jpg'
 
 #-------------------------------
