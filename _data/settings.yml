@@ -22,7 +22,7 @@ menu__settings:
 author:
   author__name: Tiago Davies
   author__bio: Click my links below if you like what you've seen.
-  author__avatar: '/images/personal/Me.jpg'
+  author__avatar: '/images/personal/Tiago-Portrait.jpg'
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/tiagodavies"}
@@ -38,7 +38,7 @@ social:
 hero:
   hero__title: Hi I'm Tiago.
   hero__description: I am a recent computer science graduate from the University of Rochester with a passion for making creative projects. <br><br> Check out all my projects below! #hyperlink <a href="/projects/">here</a>
-  hero__image: '/images/personal/Me.jpg'
+  hero__image: '/images/personal/Tiago-Portrait.jpg'
 
 #-------------------------------
 # Projects Settings
