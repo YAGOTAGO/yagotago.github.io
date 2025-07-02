@@ -18,7 +18,7 @@ image: '/images/planet-drip/planet-drip-intro.png'
 
 Planet Drip is an arcade inspired game where you navigate a space ship through hazardous terrain.
 
-* Tech: Java using Swing library, Github
+* Tech: Java using Swing library, GitHub
 * Team: 2 people
 * Duration: 1 month
 

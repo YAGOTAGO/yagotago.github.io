@@ -19,7 +19,7 @@ image: '/images/2-tris/tris-logo.png'
 
 Download [here](https://tdavies.itch.io/2-tris).
 
-* Tech: Python, Pygame library, Github
+* Tech: Python, Pygame library, GitHub
 * Team: 3 people
 * Duration: 42 hours
 

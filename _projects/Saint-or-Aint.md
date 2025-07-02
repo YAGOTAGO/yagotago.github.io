@@ -24,7 +24,7 @@ Saint or Ain't is a game inspired by [Papers, Please](https://store.steampowered
 
 Play in browser [here](https://tdavies.itch.io/saint-or-aint).
 
-* Tech: GameMaker, Github
+* Tech: GameMaker, GitHub
 * Team: 3 people
 * Duration: 1 month
 

@@ -15,7 +15,7 @@ Made during the DandyHacks'24 hackathon and awarded People's Choice, and Best in
 
 Play in browser [here](https://tdavies.itch.io/under-pressure).
 
-* Tech: [Godot](https://godotengine.org/), Github
+* Tech: [Godot](https://godotengine.org/), GitHub
 * Team: 4 people
 * Duration: 42 hours
 
