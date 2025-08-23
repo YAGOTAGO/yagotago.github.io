@@ -37,7 +37,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi I'm Tiago.
-  hero__description: I am a recent computer science graduate from the University of Rochester with a passion for making creative projects. #hyperlink <a href="/projects/">here</a>
+  hero__description: I am a Software Developer at <a href="https://www.smartsoftwareinc.com/">Smart Software Solutions</a>, where I make web and mobile applications for various clients. I earned a BS in Computer Science from the University of Rochester ('25). <br><br> Outside of work I enjoy making creative projects. Check them out below!  #hyperlink <a href="/projects/">here</a>
   hero__image: '/images/personal/Tiago-Portrait.jpg'
 
 #-------------------------------
