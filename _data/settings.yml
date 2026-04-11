@@ -56,3 +56,9 @@ footer_menu__settings:
       url: '/projects/'
     - title: 'Resume'
       url: '/Tiago-Resume.pdf'
+
+#-------------------------------
+# Blog Section
+blog__settings:
+  blog__title: Recent Posts
+  blog__description:
