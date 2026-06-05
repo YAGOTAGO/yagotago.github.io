@@ -4,3 +4,6 @@ gem "jekyll"
 gem "jekyll-paginate"
 gem "jekyll-sitemap"
 gem 'wdm', '>= 0.1.0'
+gem "jekyll-sass-converter", "~> 2.2"
+gem "bigdecimal"
+gem "logger"
