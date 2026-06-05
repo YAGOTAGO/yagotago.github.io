@@ -34,7 +34,7 @@
 
   <script>
     {% if site.data.settings.color_scheme == "auto" %}
-    if (localStorage.getItem("theme") === "dark") {
+    if (localStorage.getItem("theme") === "dark" || !localStorage.getItem("theme")) {
       document.documentElement.setAttribute("dark", "");
       document.documentElement.classList.add('dark-mode');
     }
