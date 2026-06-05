@@ -7,6 +7,14 @@
   }
 }
 
+//Game Iframes
+.game-iframe{
+  aspect-ratio: 16 / 9;
+}
+.js-reframe{
+  margin-bottom: 20px;
+}
+
 .project {
   margin-bottom: 32px;
   transition: transform .2s ease-in-out;
