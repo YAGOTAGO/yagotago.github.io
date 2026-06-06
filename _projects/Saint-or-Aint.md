@@ -4,6 +4,11 @@ date: 2024-12-04 08:01:35 +0300
 subtitle: 
 image: '/images/saint-or-aint/saint-gif.gif'
 ---
+## Play it in-browser below!
+
+<iframe frameborder="0" src="https://itch.io/embed-upload/17822390?color=000000" allowfullscreen="" width="1280" height="740">
+  <a href="https://tdavies.itch.io/saint-or-aint">Play Saint or Aint on itch.io</a>
+</iframe>
 
 <div class="gallery-box">
   <div class="gallery">
@@ -11,22 +16,14 @@ image: '/images/saint-or-aint/saint-gif.gif'
     <img src="/images/saint-or-aint/saint-game-01.png" loading="lazy" alt="Project">
   </div>
 </div>
-<div class="gallery-box">
-  <div class="gallery">
-    <img src="/images/saint-or-aint/saint-game-02.png" loading="lazy" alt="Project">
-    <img src="/images/saint-or-aint/saint-game-03.png" loading="lazy" alt="Project">
-  </div>
-</div>
 
 ## Description
 
-Saint or Ain't is a game inspired by [Papers, Please](https://store.steampowered.com/app/239030/Papers_Please/) where you play the role of a heavenly worker, tasked with determining who is worthy of being a Saint. The people's information and looks are randomly generated and includes many references to popular culture.
+Saint or Ain't is a game inspired by <a href="https://store.steampowered.com/app/239030/Papers_Please/" target="_blank" rel="noopener noreferrer">Papers, Please</a> where you play the role of a heavenly worker, tasked with determining who is worthy of being a Saint. The people's information and looks are randomly generated and includes many references to popular culture.
 
-Play in browser [here](https://tdavies.itch.io/saint-or-aint).
-
-* Tech: GameMaker, GitHub
-* Team: 3 people
-* Duration: 1 month
+* **Tech:** GameMaker, GitHub
+* **Team:** 3 people
+* **Duration:** 1 month
 
 ## Role
 Awarded the [Tom Hope Scholar](https://tomhopescholars.org/) for media work in this project.
