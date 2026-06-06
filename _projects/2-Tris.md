@@ -17,7 +17,7 @@ image: '/images/2-tris/tris-logo.png'
 
 2-Tris is Tetris for 2 players! Created during the DandyHacks'22 hackathon where it won best in entertainment and best UI/UX.
 
-Download [here](https://tdavies.itch.io/2-tris).
+Download <a href="https://tdavies.itch.io/2-tris" target="_blank" rel="noopener noreferrer">here</a>
 
 * Tech: Python, Pygame library, GitHub
 * Team: 3 people

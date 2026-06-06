@@ -16,7 +16,7 @@ image: '/images/turing-trouble/turing-intro.png'
 
 Turing Trouble is simple puzzle game made for the DandyHacks'23 hackathon where it won best in entertainment track and most creative use of GitHub.
 
-Play in browser [here](https://tdavies.itch.io/turing-trouble).
+Play in browser <a href="https://tdavies.itch.io/turing-trouble" target="_blank" rel="noopener noreferrer">here</a>
 
 * Tech: Unity, C#, GitHub
 * Team: 4 people

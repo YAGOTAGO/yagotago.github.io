@@ -11,11 +11,11 @@ image: '/images/flames-legacy/flame-gif.gif'
 
 Flames Legacy is a 3D adventure game where you fight a huge dragon! Made for the Xcalibur'25 game jam, and awarded Best Overall.
 
-Download [here](https://tdavies.itch.io/flames-legacy).
+Download <a href="https://tdavies.itch.io/flames-legacy" target="_blank" rel="noopener noreferrer">here</a>.
 
-* Tech: [Godot](https://godotengine.org/), GitHub
-* Team: 4 people
-* Duration: 32 hours
+* **Tech:** <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">Godot</a>, GitHub
+* **Team:** 4 people
+* **Duration:** 32 hours
 
 ## Role
 * Implemented basic enemy and dragon AI
