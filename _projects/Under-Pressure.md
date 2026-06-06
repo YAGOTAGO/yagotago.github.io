@@ -4,14 +4,20 @@ date: 2024-11-04 08:01:35 +0300
 subtitle: 
 image: '/images/under-pressure/under-pressure-intro.gif'
 ---
-
+<!-- Media toggle video/game -->
 <div class="media-toggle-container">
   <input type="radio" id="tab-video" name="media-switch" class="tab-radio" checked>
   <input type="radio" id="tab-game" name="media-switch" class="tab-radio">
 
   <div class="tab-buttons">
-    <label for="tab-video" class="tab-label label-video"><i class="ion ion-md-play-circle" style="margin-right: 6px;"></i>Watch Gameplay Video</label>
-    <label for="tab-game" class="tab-label label-game"><i class="ion ion-md-game-controller" style="margin-right: 6px;"></i>Play in Browser</label>
+    <label for="tab-video" class="tab-label label-video">
+      <i class="ion ion-logo-youtube" style="margin-right: 6px;"></i>
+      Watch Gameplay Video
+      </label>
+    <label for="tab-game" class="tab-label label-game">
+      <i class="ion ion-logo-game-controller-b" style="margin-right: 6px;"></i>
+      Play in Browser
+    </label>
   </div>
 
   <div id="content-video" class="media-content">
