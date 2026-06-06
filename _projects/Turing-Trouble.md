@@ -18,9 +18,9 @@ Turing Trouble is simple puzzle game made for the DandyHacks'23 hackathon where 
 
 Play in browser <a href="https://tdavies.itch.io/turing-trouble" target="_blank" rel="noopener noreferrer">here</a>
 
-* Tech: Unity, C#, GitHub
-* Team: 4 people
-* Duration: 42 hours
+* **Tech:** Unity, C#, GitHub
+* **Team:** 4 people
+* **Duration:** 42 hours
 
 ## Role
 * Implemented levels using data containers called Scriptable Objects for modular design

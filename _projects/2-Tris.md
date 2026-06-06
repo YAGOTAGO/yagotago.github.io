@@ -19,9 +19,9 @@ image: '/images/2-tris/tris-logo.png'
 
 Download <a href="https://tdavies.itch.io/2-tris" target="_blank" rel="noopener noreferrer">here</a>
 
-* Tech: Python, Pygame library, GitHub
-* Team: 3 people
-* Duration: 42 hours
+* **Tech:** Python, Pygame library, GitHub
+* **Team:** 3 people
+* **Duration:** 42 hours
 
 ## Role
 * Implemented characters movement

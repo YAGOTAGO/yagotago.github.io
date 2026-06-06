@@ -4,7 +4,7 @@ date: 2024-11-04 08:01:35 +0300
 subtitle: 
 image: '/images/under-pressure/under-pressure-intro.gif'
 ---
-<!-- Media toggle video/game -->
+<!-- Media toggle youtube/game -->
 <div class="media-toggle-container">
   <input type="radio" id="tab-video" name="media-switch" class="tab-radio" checked>
   <input type="radio" id="tab-game" name="media-switch" class="tab-radio">
