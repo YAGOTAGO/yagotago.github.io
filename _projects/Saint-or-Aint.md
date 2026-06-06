@@ -21,7 +21,7 @@ image: '/images/saint-or-aint/saint-gif.gif'
 
 Saint or Ain't is a game inspired by <a href="https://store.steampowered.com/app/239030/Papers_Please/" target="_blank" rel="noopener noreferrer">Papers, Please</a> where you play the role of a heavenly worker, tasked with determining who is worthy of being a Saint. The people's information and looks are randomly generated and includes many references to popular culture.
 
-* **Tech:** GameMaker, GitHub
+* **Tech:** ![GameMaker](https://img.shields.io/badge/GameMaker-000?logo=gamemaker&logoColor=fff) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 * **Team:** 3 people
 * **Duration:** 1 month
 

@@ -13,7 +13,7 @@ Flames Legacy is a 3D adventure game where you fight a huge dragon! Made for the
 
 Download <a href="https://tdavies.itch.io/flames-legacy" target="_blank" rel="noopener noreferrer">here</a>.
 
-* **Tech:** <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">Godot</a>, GitHub
+* **Tech:** ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 * **Team:** 4 people
 * **Duration:** 32 hours
 

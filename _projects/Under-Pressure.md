@@ -44,7 +44,7 @@ Under Pressure is a tense task management game where you must fix your submarine
 
 Made during the DandyHacks'24 hackathon and awarded People's Choice, and Best in Entertainment.
 
-* **Tech:** <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">Godot</a>, GitHub
+* **Tech:** ![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 * **Team:** 4 people
 * **Duration:** 42 hours
 

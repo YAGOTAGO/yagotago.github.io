@@ -19,7 +19,7 @@ image: '/images/2-tris/tris-logo.png'
 
 Download <a href="https://tdavies.itch.io/2-tris" target="_blank" rel="noopener noreferrer">here</a>
 
-* **Tech:** Python, Pygame library, GitHub
+* **Tech:** ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff) ![Pygame](https://img.shields.io/badge/Pygame-36302f) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)
 * **Team:** 3 people
 * **Duration:** 42 hours
 
