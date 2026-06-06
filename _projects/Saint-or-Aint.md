@@ -26,7 +26,7 @@ Saint or Ain't is a game inspired by <a href="https://store.steampowered.com/app
 * **Duration:** 1 month
 
 ## Role
-Awarded the [Tom Hope Scholar](https://tomhopescholars.org/) for media work in this project.
+Awarded the <a href="https://tomhopescholars.org/" target="_blank" rel="noopener noreferrer">Tom Hope Scholar Award</a> for media work in this project.
 * Responsible for all coding
 * Implemented category databases
 * Implemented scene transitions

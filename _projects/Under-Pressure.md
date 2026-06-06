@@ -5,7 +5,32 @@ subtitle:
 image: '/images/under-pressure/under-pressure-intro.gif'
 ---
 
-<p><iframe src="https://www.youtube.com/embed/Bf4K-OTwks8" loading="lazy" frameborder="0" allowfullscreen></iframe></p>
+<div class="media-toggle-container">
+  <input type="radio" id="tab-video" name="media-switch" class="tab-radio" checked>
+  <input type="radio" id="tab-game" name="media-switch" class="tab-radio">
+
+  <div class="tab-buttons">
+    <label for="tab-video" class="tab-label label-video"><i class="ion ion-md-play-circle" style="margin-right: 6px;"></i>Watch Gameplay Video</label>
+    <label for="tab-game" class="tab-label label-game"><i class="ion ion-md-game-controller" style="margin-right: 6px;"></i>Play in Browser</label>
+  </div>
+
+  <div id="content-video" class="media-content">
+    <iframe src="https://www.youtube.com/embed/Bf4K-OTwks8" 
+            loading="lazy" 
+            frameborder="0"
+            allowfullscreen>
+    </iframe>
+  </div>
+
+  <div id="content-game" class="media-content">
+    <iframe src="https://itch.io/embed-upload/12059412?color=000000" 
+            allowfullscreen 
+            scrolling="no"
+            width="640" height="380">
+      <a href="https://tdavies.itch.io/under-pressure">Play Under Pressure on itch.io</a>
+    </iframe>
+  </div>
+</div>
 
 ## Description
 
@@ -13,11 +38,9 @@ Under Pressure is a tense task management game where you must fix your submarine
 
 Made during the DandyHacks'24 hackathon and awarded People's Choice, and Best in Entertainment.
 
-Play in browser [here](https://tdavies.itch.io/under-pressure).
-
-* Tech: [Godot](https://godotengine.org/), GitHub
-* Team: 4 people
-* Duration: 42 hours
+* **Tech:** <a href="https://godotengine.org/" target="_blank" rel="noopener noreferrer">Godot</a>, GitHub
+* **Team:** 4 people
+* **Duration:** 42 hours
 
 ## Role
 * Implemented in-game tasks such as the tv, radar scanner, radio, and depth meter

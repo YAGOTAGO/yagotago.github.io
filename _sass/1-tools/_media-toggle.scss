@@ -1,0 +1,131 @@
+.media-toggle-container {
+    margin-bottom: 2rem;
+    background: #111;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #222;
+    }
+.tab-buttons {
+    display: flex;
+    background: #161616;
+    border-bottom: 1px solid #222;
+}
+.tab-label {
+    flex: 1;
+    text-align: center;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: #888;
+    transition: all 0.2s ease;
+    user-select: none;
+}
+.tab-label:hover {
+    color: #fff;
+    background: #1c1c1c;
+}
+.tab-radio {
+    display: none;
+}
+.media-content {
+    display: none;
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    background: #000;
+}
+#tab-video:checked ~ .tab-buttons .label-video,
+#tab-game:checked ~ .tab-buttons .label-game {
+    color: #fff;
+    background: #1e1e1e;
+    box-shadow: inset 0 -2px 0 #9e2835;
+}
+#tab-video:checked ~ #content-video,
+#tab-game:checked ~ #content-game {
+    display: block;
+}
+.media-content .js-reframe,
+.media-content p {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.media-content iframe {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    border: none !important;
+    outline: none !important;
+}.media-toggle-container {
+    margin-bottom: 2rem;
+    background: #111;
+    border-radius: 12px;
+    overflow: hidden;
+    border: 1px solid #222;
+}
+.tab-buttons {
+    display: flex;
+    background: #161616;
+    border-bottom: 1px solid #222;
+}
+.tab-label {
+    flex: 1;
+    text-align: center;
+    padding: 12px 20px;
+    cursor: pointer;
+    font-weight: 600;
+    font-size: 0.95rem;
+    color: #888;
+    transition: all 0.2s ease;
+    user-select: none;
+}
+.tab-label:hover {
+    color: #fff;
+    background: #1c1c1c;
+}
+.tab-radio {
+    display: none;
+}
+.media-content {
+    display: none;
+    position: relative;
+    width: 100%;
+    padding-top: 56.25%;
+    background: #000;
+}
+#tab-video:checked ~ .tab-buttons .label-video,
+#tab-game:checked ~ .tab-buttons .label-game {
+    color: #fff;
+    background: #1e1e1e;
+    box-shadow: inset 0 -2px 0 #fff;
+}
+#tab-video:checked ~ #content-video,
+#tab-game:checked ~ #content-game {
+    display: block;
+}
+.media-content .js-reframe,
+.media-content p {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+.media-content iframe {
+    position: absolute !important;
+    top: 0 !important;
+    left: 0 !important;
+    width: 100% !important;
+    height: 100% !important;
+    border: none !important;
+    outline: none !important;
+}
