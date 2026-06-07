@@ -37,7 +37,7 @@ social:
 # Hero Settings
 hero:
   hero__title: Hi I'm Tiago.
-  hero__description: I work as a Full-Stack Developer, where I create web and mobile applications for various clients. I earned a BS in Computer Science from the University of Rochester. <br><br> Outside of work I enjoy board games, cooking new recipes, and developing video games. Check them out below!
+  hero__description: I work as a <b>Full-Stack Developer</b>, where I build web and mobile applications for various clients. I earned a BS in Computer Science from the University of Rochester. <br><br> Outside of work I enjoy board games, cooking new recipes, and developing video games. Check them out below!
   hero__image: '/images/personal/Tiago-Portrait.jpg'
 
 #-------------------------------

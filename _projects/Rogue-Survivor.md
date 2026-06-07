@@ -24,7 +24,7 @@ Rogue Survivor is a survivors like built with an ECS architecture. Currently a w
 * **Framework:** <a href="https://phaser.io/" target="_blank" rel="noopener noreferrer">Phaser 4.1</a> (WebGL/Canvas 2D Rendering)
 * **ECS Framework:** <a href="https://github.com/NateTheGreatt/bitECS" target="_blank" rel="noopener noreferrer">bitECS</a>
 * **Language:** ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
-* **Tools:** ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff) [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](#), Tiled, <a href="https://www.npmjs.com/package/phaser3-rex-plugins" target="_blank" rel="noopener noreferrer">RexUI</a>
+* **Tools:** ![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff) ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff), Tiled, <a href="https://www.npmjs.com/package/phaser3-rex-plugins" target="_blank" rel="noopener noreferrer">RexUI</a>
 * **Art:** <a href="https://sethbb.itch.io/32rogues" target="_blank" rel="noopener noreferrer">32rogues</a>
 
 ## Architecture Highlights
