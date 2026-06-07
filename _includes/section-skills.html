@@ -1,0 +1,37 @@
+<!-- Begin Skills -->
+<section class="section skills animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="contaniner__inner">
+
+          <div class="section__info">
+            <h2 class="section__title">{{ site.data.skills.title }}</h2>
+          </div>
+
+          <div class="row">
+            {% for category in site.data.skills.categories %}
+              <div class="skill col col-3 col-d-6 col-t-12">
+                <div class="skill__card">
+                  
+                  <div class="skill__header">
+                    <i class="skill__icon {{ category.icon }}" style="color: {{ category.icon-color }};"></i>
+                    <h3 class="skill__title">{{ category.name }}</h3>
+                  </div>
+                  
+                  <div class="skill__badges">
+                    {% for skill in category.items %}
+                      <img src="{{ skill.badge }}" alt="{{ skill.alt }}" />
+                    {% endfor %}
+                  </div>
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+
+</section>
+<!-- End Skills -->
