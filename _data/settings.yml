@@ -30,14 +30,18 @@ social:
 - {icon: "ion-md-mail", link: "mailto:tiagocaetanodavies@gmail.com"}
 - {icon: "ion-logo-game-controller-b", link: "https://tdavies.itch.io"}
 
-# Example of adding a new link to the footer - {icon: "ion-logo-dribbble", link: "https://dribbble.com"}
-# Other icons can be found at https://ionicons.com/v4/
 
 #-------------------------------
 # Hero Settings
 hero:
   hero__title: Hi I'm Tiago.
-  hero__description: I work as a <b>Full-Stack Developer</b>, where I build web and mobile applications for various clients. I earned a BS in Computer Science from the University of Rochester. <br><br> Outside of work I enjoy board games, cooking new recipes, and developing video games. Check them out below!
+  hero__description: | 
+    I work as a <a href="#experience">Full-Stack Developer</a>, where I build web and mobile applications. 
+    I studied at the University of Rochester where I earned a <b>BS in Computer Science</b>.
+    <br><br>
+    Outside of work I enjoy board games, cooking new recipes, and developing video games.
+    <br><br>
+    <a href="#projects">Check them out below!</a>
   hero__image: '/images/personal/Tiago-Portrait.jpg'
 
 #-------------------------------
