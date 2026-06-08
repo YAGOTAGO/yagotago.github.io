@@ -1,0 +1,46 @@
+<!-- Begin Experience Section -->
+<section class="section experience animate">
+  <div class="container">
+    <div class="row">
+      <div class="col col-12">
+        <div class="contaniner__inner">
+
+          <div class="section__info">
+            <h2 class="section__title">{{ site.data.experience.title }}</h2>
+          </div>
+
+          <div class="row">
+            {% for role in site.data.experience.role %}
+              <div class="experience col col-12 col-d-12 col-t-12">
+                <div class="experience__card">
+                  <div class="experience__accent" style="background-color: {{role.accent_color}};"></div>
+                  
+                  <div class="experience__body">
+                    <div class="experience__header">
+                      <h3 class="experience__title">{{ role.title }}</h3>
+                      <span class="experience__date">{{ role.date }}</span>
+                    </div>
+                  
+                    <div class="experience__company">
+                      <span>{{ role.company }}</span>
+                    </div>
+
+                    <ul class="experience__description">
+                      {% for item in role.description %}
+                        <li>{{ item.bullet }}</li>
+                      {% endfor %}
+                    </ul>
+                  </div>
+                  
+                </div>
+              </div>
+            {% endfor %}
+          </div>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- End Experience Section -->
