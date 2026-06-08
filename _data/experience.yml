@@ -5,8 +5,14 @@ role:
     company: Smart Software Solutions
     date: 2025 - Present
     description: 
-      - bullet: Bullet point 1
-      - bullet: Bullet point 2
+      - bullet: |
+          Expanded a shared .NET backend to support secure JWT authentication for the mobile application while maintaining existing cookie-based sessions for the web platform. 
+      - bullet: |
+          Modernized a mobile application by implementing a biometrics library and Angular route guards, developing a secure JWT refresh-token lifecycle to enable seamless Face ID and fingerprint logins on iOS and Android.
+      - bullet: |
+          Integrated Tesseract OCR to extract and auto-fill fields with Machine Readable Zone (MRZ) data from passports, achieving over 90% parsing accuracy.
+      - bullet: |
+          Transformed Figma designs into interactive, and responsive front-end views, using modern CSS/SCSS to achieve fluid UI across multiple screen sizes on both web and mobile.
   
   - title: Computer Science Teaching Assistant
     company: University of Rochester
