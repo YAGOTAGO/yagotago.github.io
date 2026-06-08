@@ -18,7 +18,7 @@ Download <a href="https://tdavies.itch.io/flames-legacy" target="_blank" rel="no
 * **Duration:** 32 hours
 
 ## Role
-* Implemented basic enemy and dragon AI
+* Implemented enemy and dragon AI
 * Enhanced visuals editing sky box, and fire shaders
 * Implemented character controller
 
