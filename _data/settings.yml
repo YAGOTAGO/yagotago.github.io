@@ -37,7 +37,7 @@ hero:
   hero__title: Hi I'm Tiago.
   hero__description: | 
     I work as a <a href="#experience">Full-Stack Developer</a>, where I build web and mobile applications. 
-    I studied at the University of Rochester where I earned a <b>BS in Computer Science</b>.
+    I studied at the University of Rochester where I earned a <b>B.S. in Computer Science</b>.
     <br><br>
     Outside of work I enjoy board games, cooking new recipes, and developing video games.
     <br><br>
@@ -60,9 +60,3 @@ footer_menu__settings:
       url: '/projects/'
     - title: 'Resume'
       url: '/Tiago-Resume.pdf'
-
-#-------------------------------
-# Blog Section
-blog__settings:
-  blog__title: Recent Posts
-  blog__description:
