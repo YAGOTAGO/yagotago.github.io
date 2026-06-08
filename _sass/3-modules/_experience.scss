@@ -1,4 +1,6 @@
-.experience {
+.experience-item {
+  margin-bottom: 2rem;
+
   .experience__card {
     background-color: var(--background-alt-color);
     border-radius: 0.5rem;
@@ -10,6 +12,7 @@
     .experience__accent {
       width: 3px;
       border-radius: 4px;
+      background-color: var(--brand-color);
     }
 
     .experience__body{
@@ -48,6 +51,10 @@
     }
   
   }
+}
 
-
+.experience-item:not(:first-child) {
+  .experience__accent {
+    background-color: var(--text-color);
+  }
 }
