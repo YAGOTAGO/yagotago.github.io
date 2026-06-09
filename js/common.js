@@ -8,6 +8,40 @@ document.addEventListener("DOMContentLoaded", function() {
     toggleTheme = document.querySelector(".toggle-theme-js"),
     btnScrollToTop = document.querySelector(".top");
 
+  function smoothScrollTo(element) {
+    const target = element.getBoundingClientRect().top + window.scrollY;
+    const start = window.scrollY;
+    const distance = target - start;
+    const duration = 800; // milliseconds
+    let start_time = null;
+
+    // Disable animations globally during scroll
+    html.classList.add('disable-animation');
+
+    const easeInOutQuad = function(t, b, c, d) {
+      t /= d / 2;
+      if (t < 1) return c / 2 * t * t + b;
+      t--;
+      return -c / 2 * (t * (t - 2) - 1) + b;
+    };
+
+    const scroll = function(currentTime) {
+      if (start_time === null) start_time = currentTime;
+      const elapsed = currentTime - start_time;
+      const position = easeInOutQuad(elapsed, start, distance, duration);
+      
+      window.scrollTo(0, position);
+      
+      if (elapsed < duration) {
+        requestAnimationFrame(scroll);
+      } else {
+        // Re-enable animations after scroll completes
+        html.classList.remove('disable-animation');
+      }
+    };
+
+    requestAnimationFrame(scroll);
+  }
 
   /* =======================================================
   // Menu + Theme Switcher
@@ -136,15 +170,18 @@ document.addEventListener("DOMContentLoaded", function() {
 
 
   /* =================================
-  // Smooth scroll to the tags page
+  // Smooth scroll for all anchor links
   ================================= */
-  document.querySelectorAll(".tag__link, .top__link").forEach(anchor => {
+  document.querySelectorAll("a[href^='#']").forEach(anchor => {
     anchor.addEventListener("click", function (e) {
-      e.preventDefault();
-
-      document.querySelector(this.getAttribute("href")).scrollIntoView({
-        behavior: "smooth"
-      });
+      const href = this.getAttribute("href");
+      const target = document.querySelector(href);
+      
+      if (target) {
+        e.preventDefault();
+        menuClose(); // Close mobile menu if open
+        smoothScrollTo(target);
+      }
     });
   });
 
@@ -152,14 +189,13 @@ document.addEventListener("DOMContentLoaded", function() {
   /* =======================
   // Scroll Top Button
   ======================= */
-  btnScrollToTop.addEventListener("click", function () {
-    if (window.scrollY != 0) {
-      window.scrollTo({
-        top: 0,
-        left: 0,
-        behavior: "smooth"
-      })
-    }
-  });
+  if (btnScrollToTop) {
+    btnScrollToTop.addEventListener("click", function () {
+      if (window.scrollY != 0) {
+        const topElement = document.documentElement;
+        smoothScrollTo(topElement);
+      }
+    });
+  }
 
 });
