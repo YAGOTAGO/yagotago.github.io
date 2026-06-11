@@ -6,13 +6,20 @@ role:
     date: 2025 - Present
     description: 
       - bullet: |
-          Expanded a shared .NET backend to support secure JWT authentication for the mobile application while maintaining existing cookie-based sessions for the web platform. 
+          <b>Security & Authentication:</b> 
+          Expanded a cross-platform .NET RESTful API to support secure JWT authentication using a refresh token system for a mobile application while maintaining the existing cookie-based sessions for the web platform. 
       - bullet: |
-          Modernized a mobile application by implementing a biometrics library and Angular route guards, developing a secure JWT refresh-token lifecycle to enable seamless Face ID and fingerprint logins on iOS and Android.
+          <b>Database & Backend:</b> 
+          Modernized database transaction handling by introducing rollback/commit patterns and structured error handling, significantly improving data reliability and integrity.
       - bullet: |
-          Integrated Tesseract OCR to extract and auto-fill fields with Machine Readable Zone (MRZ) data from passports, achieving over 90% parsing accuracy.
+          <b>Mobile Development:</b> 
+          Enhanced a mobile application by implementing Angular route guards for secure client-side navigation. Switched from template-driven to reactive forms for consistent validation and error handling.
       - bullet: |
-          Transformed Figma designs into interactive, and responsive front-end views, using modern CSS/SCSS to achieve fluid UI across multiple screen sizes on both web and mobile.
+          <b>Feature Integration:</b> 
+          Integrated a Cordova biometrics plugin to enable seamless Face ID and fingerprint authentication on iOS and Android. Also, integrated Tesseract OCR to extract and auto-fill passport data with >90% parsing accuracy.
+      - bullet: |   
+          <b>Front-end Architecture:</b> 
+          Transformed Figma designs into interactive and responsive front-end views, using modern CSS/SCSS to achieve fluid UI across multiple screen sizes on both web and mobile.
   
   - title: Computer Science Teaching Assistant
     company: University of Rochester
