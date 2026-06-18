@@ -20,6 +20,8 @@ categories:
     items:
       - badge: https://img.shields.io/badge/Angular-%23DD0031.svg?logo=angular&logoColor=white
         alt: Angular
+      - badge: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
+        alt: React
       - badge: https://img.shields.io/badge/Sass-C69?logo=sass&logoColor=fff
         alt: Sass
       - badge: https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff
@@ -45,16 +47,15 @@ categories:
     icon-color: '#5F5E5A'
     items:
       - badge: https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white
-        alt: Github
-      - badge: https://img.shields.io/badge/TortoiseSVN-809CC0?logo=subversion&logoColor=white
-        alt: TortoiseSVN
+        alt: Git/Github
       - badge: https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff
         alt: Vite
       - badge: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff
         alt: npm
+      - badge: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff
+        alt: Docker
       - badge: https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff
         alt: jQuery
       - badge: https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white
         alt: Postman
-      - badge: https://img.shields.io/badge/Cordova-E8E8E8?logo=apache-cordova&logoColor=black
-        alt: Cordova
+
