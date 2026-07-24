@@ -48,14 +48,17 @@ categories:
     items:
       - badge: https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white
         alt: Git/Github
-      - badge: https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff
-        alt: Vite
-      - badge: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff
-        alt: npm
       - badge: https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff
         alt: Docker
-      - badge: https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff
-        alt: jQuery
+      - badge: https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff
+        alt: npm
+      - badge: https://img.shields.io/badge/-Capacitor-119EFF?style=flat&logo=capacitor&logoColor=white
+        alt: Capacitor
       - badge: https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white
         alt: Postman
+      - badge: https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff
+        alt: Vite
+      - badge: https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=fff
+        alt: jQuery
+
 
