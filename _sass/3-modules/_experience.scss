@@ -58,3 +58,16 @@
     background-color: var(--text-color);
   }
 }
+
+.section-button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: fit-content;
+  margin: auto;
+
+  .resume-icon {
+    margin-left: 0.5rem;
+    font-size: 1.3rem;
+  }
+}

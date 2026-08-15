@@ -19,6 +19,8 @@
 }
 
 .hero__left {
+  display: flex;
+  justify-content: center;
   width: 50%;
 
   @media only screen and (max-width: $desktop) {
@@ -34,8 +36,8 @@
 .hero__image {
   position: relative;
   transform: translate(0);
-  width: 100%;
-  height: 634px;
+  width: 330px;
+  height: 330px;
   border-radius: 8px;
   overflow: hidden;
   box-shadow: 0 10px 30px rgba(0, 0, 0, 0.02);
@@ -52,19 +54,23 @@
   }
 
   @media only screen and (max-width: $wide) {
-    height: 484px;
+    height: 330px;
+    width: 330px;
   }
 
   @media only screen and (max-width: $desktop) {
-    height: 440px;
+    height: 330px;
+    width: 330px;
   }
 
   @media only screen and (max-width: $tablet) {
-    height: 420px;
+    height: 330px;
+    width: 330px;
   }
 
   @media only screen and (max-width: $mobile) {
     height: 280px;
+    width: 280px;
   }
 }
 
