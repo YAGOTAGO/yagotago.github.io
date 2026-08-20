@@ -42,7 +42,7 @@ hero:
     Outside of work I enjoy board games, cooking new recipes, and developing video games.
     <br><br>
     <a href="#projects">Check them out below!</a>
-  hero__image: '/images/personal/Tiago-Portrait.png'
+  hero__image: '/images/personal/Tiago.png'
 
 #-------------------------------
 # Projects Settings
