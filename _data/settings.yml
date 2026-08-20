@@ -22,7 +22,7 @@ menu__settings:
 author:
   author__name: Tiago Davies
   author__bio: Like what you've seen? Click my links below!
-  author__avatar: '/images/personal/Tiago-Portrait.jpg'
+  author__avatar: ''
 
 social:
 - {icon: "ion-logo-linkedin", link: "https://www.linkedin.com/in/tiagodavies"}
@@ -42,7 +42,7 @@ hero:
     Outside of work I enjoy board games, cooking new recipes, and developing video games.
     <br><br>
     <a href="#projects">Check them out below!</a>
-  hero__image: '/images/personal/Tiago-Portrait.jpg'
+  hero__image: '/images/personal/Tiago-Portrait.png'
 
 #-------------------------------
 # Projects Settings
