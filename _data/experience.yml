@@ -2,6 +2,12 @@ title: Where I've Worked
 
 role:
   - title: Software Engineer
+    company: KBR Wyle Services, LLC
+    date: 2026 - Present
+    description: 
+      - bullet: |
+          Work as a full-stack software engineer building a new platform to empower our mission tecnology clients.
+  - title: Software Developer
     company: Smart Software Solutions
     date: 2025 - 2026
     description: 
@@ -20,17 +26,3 @@ role:
       - bullet: |   
           <b>Front-end Architecture:</b> 
           Transformed Figma designs into interactive and responsive front-end views, using modern CSS/SCSS to achieve fluid UI across multiple screen sizes on both web and mobile.
-  
-  - title: Computer Science Teaching Assistant
-    company: University of Rochester
-    date: 2023 - 2024
-    description: 
-      - bullet: Spearheaded weekly technical labs for 150+ students in core Data Structures & Algorithms topics.
-      - bullet: Guided students through problem-solving, debugging, and code architecture during study sessions.
-  
-  - title: Computer Science Workshop Leader
-    company: University of Rochester
-    date: 2022 - 2023
-    description: 
-      - bullet: Led weekly workshops for groups of 10+ students on data structures and algorithm topics.
-      - bullet: Participated in weekly leadership class focused on team work and communication.
