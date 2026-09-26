@@ -31,6 +31,12 @@
                         <li>{{ item.bullet }}</li>
                       {% endfor %}
                     </ul>
+
+                    <div class="experience__skills">
+                      {% for skill in role.skills %}
+                        <span class="tech-pill">{{ skill }}</span>
+                      {% endfor %}
+                    </div>
                   </div>
                 </div>
               </div>

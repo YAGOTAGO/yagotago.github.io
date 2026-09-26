@@ -7,6 +7,12 @@ role:
     description: 
       - bullet: |
           Work as a full-stack software engineer building a new platform for use by government clients.
+    skills:
+      - React
+      - TypeScript
+      - Postgres
+      - Golang
+      - Tailwind
   - title: Software Developer
     company: Smart Software Solutions
     date: 2025 - 2026
@@ -26,3 +32,11 @@ role:
       - bullet: |   
           <b>Front-end Architecture:</b> 
           Transformed Figma designs into interactive and responsive front-end views, using modern CSS/SCSS to achieve fluid UI across multiple screen sizes on both web and mobile.
+    skills:
+      - Angular
+      - TypeScript
+      - SQL Server
+      - .NET
+      - C#
+      - Bootstrap
+

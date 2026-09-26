@@ -31,11 +31,34 @@
 
         .experience__date {
           background-color: var(--background-color);
+          color: var(--heading-font-color);
           border-radius: 25px;
           margin-bottom: 0;
           padding: 0.25rem 0.7rem;
           font-size: 14px;
           text-align: center;
+          font-weight: bold;
+        }
+      }
+
+      .experience__skills {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 0.7rem;
+        margin-bottom: 0.5rem;
+        padding-top: 1rem;
+        border-top: 1px solid var(--border-color);
+
+        .tech-pill {
+          display: inline-block;
+          padding: 0.25rem 0.75rem;
+          font-size: 0.75rem;
+          font-weight: 500;
+          border-radius: 9999px;
+          background-color: var(--pill-bg);
+          color: var(--pill-text);
+          border: 1px solid var(--pill-border);
+          transition: background-color 0.3s ease, color 0.3s ease, border-color 0.3s ease;
         }
       }
 
