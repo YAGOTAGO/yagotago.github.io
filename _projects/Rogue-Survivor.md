@@ -32,13 +32,3 @@ Rogue Survivor is a survivors like built with an ECS architecture. Currently a w
 * **Cache Locality:** The ECS architecture stores all state in flat TypesArrays
 * **Sprite Pooling:** Object pooling for sprites to reduce garbage collection and instancing
 * **Spatial Hashing:** Custom collider system with spatial hashing to reduce collision checks allowing more entities to be in the world
-
-## Code
-<div class="social social--large">
-  <ul class="social__list list-reset">
-    <li class="social__item">
-      <a class="social__link" href="https://github.com/YAGOTAGO/rogue-survivor/" target="_blank" rel="noopener"
-        aria-label="GitHub"><i class="ion ion-logo-github"></i></a>
-    </li>
-  </ul>
-</div>
