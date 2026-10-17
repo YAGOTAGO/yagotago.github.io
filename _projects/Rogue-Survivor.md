@@ -8,7 +8,7 @@ image: '/images/rogue-survivor/survivor.gif'
 ## Play it in-browser below!
 
 <iframe 
-    src="https://tiagodavies.com/rogue-survivor/" 
+    src="https://tiagodavies.com/rogue-survivor-build/" 
     title="Rogue Survivor Game"
     loading="lazy" 
     frameborder="0" 
